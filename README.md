@@ -1,2 +1,2 @@
 # NOTE-RED
-copy the code - click on the import function on the note red - paste the code in their - one the code for ESP-32 have been uploaded - press deloy in the Node Red
+Copy the code - Click on the import function on the Note Red - Paste the code in their - One the code for ESP-32 have been uploaded - Press deloy in the Node Red
